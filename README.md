@@ -1,1 +1,1 @@
-# 2D-Array---DS-ds
+# 2D-Array---DS-ds This program calculates the maximum hourglass sum in a 6×6 2D array by checking all possible hourglass patterns. It loops through the array, computes each hourglass sum, and returns the largest one found.
